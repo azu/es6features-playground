@@ -4,7 +4,7 @@ Executable ES6 example codes for [lukehoban/es6features](https://github.com/luke
 
 ### traceur 0.0.30
 
-Some case is not support.
+Some case are not supported.
 
 * "Enhanced Object Literals"
 * "Comprehensions"
