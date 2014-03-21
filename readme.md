@@ -9,6 +9,10 @@ Some case is not support.
 * "Enhanced Object Literals"
 * "Comprehensions"
 * "Module Loaders"
+* "Subclassable Built-ins"
+
+
+Other ... "Tail Calls"
 
 ### V8
 
@@ -24,6 +28,8 @@ You should set `--harmony` for node and use Node.js **> v0.11**.
 Node v0.11 doesn't support  [Direct Proxies](http://wiki.ecmascript.org/doku.php?id=harmony:direct_proxies "Direct Proxies").
 
 You need to use [tvcutsem/harmony-reflect](https://github.com/tvcutsem/harmony-reflect "tvcutsem/harmony-reflect").
+
+
 
 ## Setting WebStorm
 
