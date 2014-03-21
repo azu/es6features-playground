@@ -11,7 +11,9 @@ Some case is not support.
 
 ### V8
 
-You should set `--harmony` for node option.
+You should set `--harmony` for node and use Node.js **> v0.11**.
+
+* `Set`
 
 ## Setting WebStorm
 
