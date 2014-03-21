@@ -1,4 +1,4 @@
-## es6features-playground
+## es6features-playground [![Build Status](https://travis-ci.org/azu/es6features-playground.svg)](https://travis-ci.org/azu/es6features-playground)
 
 Executable ES6 example codes for [lukehoban/es6features](https://github.com/lukehoban/es6features "lukehoban/es6features").
 

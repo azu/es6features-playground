@@ -7,7 +7,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/*.js"
+    "test": "mocha --harmony out/**/*.js"
   },
   "directories": {
     "test": "out/"
