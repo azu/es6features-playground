@@ -8,8 +8,10 @@ Some case is not support.
 
 * "Enhanced Object Literals"
 * "Comprehensions"
-* "Modules"
-* "Module Loaders"
+
+### V8
+
+You should set `--harmony` for node option.
 
 ## Setting WebStorm
 
