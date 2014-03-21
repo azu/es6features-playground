@@ -8,6 +8,8 @@ Some case is not support.
 
 * "Enhanced Object Literals"
 * "Comprehensions"
+* "Modules"
+* "Module Loaders"
 
 ## Setting WebStorm
 
