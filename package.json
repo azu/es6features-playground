@@ -1,0 +1,27 @@
+{
+  "name": "es6features-playground",
+  "description": "es6features live example",
+  "version": "0.0.1",
+  "repository": {
+    "url": "git://github.com/azu/es6features-playground.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "directories": {
+    "test": "out/"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/es6features-playground/issues"
+  },
+  "devDependencies": {
+    "power-assert": "^0.3.1",
+    "traceur": "0.0.30",
+    "mocha": "^1.18.2",
+    "intelli-espower-loader": "0.0.5",
+    "sinon": "^1.9.0"
+  }
+}
